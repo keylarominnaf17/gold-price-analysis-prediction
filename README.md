@@ -31,6 +31,17 @@ gold-project/
 ├── gold_prices.csv
 └── README.md
 
+gold-price-analysis-prediction/
+├── data/
+│   └── gold_recovery_full.csv
+│   └── gold_recovery_test.csv
+│   └── gold_recovery_train.csv
+├── notebooks/
+│   └── gold-price-analysis-prediction.ipynb
+├── README.md
+└── .gitignore
+
+
 ## 📌 Notes
 
 This project was developed as part of learning data analysis and machine learning with a focus on financial markets.
