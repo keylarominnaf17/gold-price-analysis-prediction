@@ -25,12 +25,6 @@ This project analyzes historical gold price data to identify trends, seasonal pa
 To predict short-term gold prices based on historical data and evaluate the accuracy of different models.
 
 ## 📁 Project Structure
-gold-project/
-│
-├── gold_price_analysis.ipynb
-├── gold_prices.csv
-└── README.md
-
 gold-price-analysis-prediction/
 ├── data/
 │   └── gold_recovery_full.csv
